@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: b0cc17b90d2562941961a4458644264a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -69471624365162254
+    second: green_thorns_0
+  - first:
+      213: 2976203055213935705
+    second: green_thorns_1
+  - first:
+      213: -944145138238004956
+    second: green_thorns_2
+  - first:
+      213: -6909129977296005831
+    second: green_thorns_3
+  - first:
+      213: 469517846061180714
+    second: green_thorns_4
+  - first:
+      213: 507948984822219000
+    second: green_thorns_5
+  - first:
+      213: -4509475841987351216
+    second: green_thorns_6
+  - first:
+      213: 8836207434327844714
+    second: green_thorns_7
+  - first:
+      213: 8358454274205256769
+    second: green_thorns_8
+  - first:
+      213: -2115257472165690441
+    second: green_thorns_9
+  - first:
+      213: 5254761564818712809
+    second: green_thorns_10
+  - first:
+      213: -4109394023019629093
+    second: green_thorns_11
+  - first:
+      213: -7173399579301971260
+    second: green_thorns_12
+  - first:
+      213: -4057067926260623400
+    second: green_thorns_13
+  - first:
+      213: 1621093109899079605
+    second: green_thorns_14
+  - first:
+      213: -8559728226431788069
+    second: green_thorns_15
+  - first:
+      213: -7882526731633816403
+    second: green_thorns_16
+  - first:
+      213: 6231331207732775592
+    second: green_thorns_17
+  - first:
+      213: -8549558928726581768
+    second: green_thorns_18
+  - first:
+      213: -1157418079996975231
+    second: green_thorns_19
+  - first:
+      213: 2936895819771867995
+    second: green_thorns_20
+  - first:
+      213: 3673912354890615944
+    second: green_thorns_21
+  - first:
+      213: -4613569751651570056
+    second: green_thorns_22
+  - first:
+      213: -1944211154478209880
+    second: green_thorns_23
+  - first:
+      213: 1533444642026869825
+    second: green_thorns_24
+  - first:
+      213: 7228021917979113232
+    second: green_thorns_25
+  - first:
+      213: -880903583351153241
+    second: green_thorns_26
+  - first:
+      213: 7645563573975710433
+    second: green_thorns_27
+  - first:
+      213: 7315632021019396869
+    second: green_thorns_28
+  - first:
+      213: -5200293511712988686
+    second: green_thorns_29
+  - first:
+      213: 8707140690117046788
+    second: green_thorns_30
+  - first:
+      213: 4577165041151256840
+    second: green_thorns_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green_thorns_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0cebbfcef290ff0800000000000000
+      internalID: -69471624365162254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c757df8e89d4920800000000000000
+      internalID: 2976203055213935705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42169e2cff8b5e2f0800000000000000
+      internalID: -944145138238004956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935d44c44e6dd10a0800000000000000
+      internalID: -6909129977296005831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27ee2e4eff048600800000000000000
+      internalID: 469517846061180714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0495419e89c0700800000000000000
+      internalID: 507948984822219000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d632b2d9f1b61c0800000000000000
+      internalID: -4509475841987351216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e6c468d380aa70800000000000000
+      internalID: 8836207434327844714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c895d90e13ff370800000000000000
+      internalID: 8358454274205256769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3c213498815a2e0800000000000000
+      internalID: -2115257472165690441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e825626dc9ace840800000000000000
+      internalID: 5254761564818712809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd53dc798ef78f6c0800000000000000
+      internalID: -4109394023019629093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caf4c3c617f27c90800000000000000
+      internalID: -7173399579301971260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7da91673662b7c0800000000000000
+      internalID: -4057067926260623400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2e5338974f7610800000000000000
+      internalID: 1621093109899079605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb16a9878cb53980800000000000000
+      internalID: -8559728226431788069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac027473b3ab9290800000000000000
+      internalID: -7882526731633816403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aac7bae7b22a7650800000000000000
+      internalID: 6231331207732775592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd9bfaa37dd95980800000000000000
+      internalID: -8549558928726581768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1876a25736600ffe0800000000000000
+      internalID: -1157418079996975231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53f4df0033f1c820800000000000000
+      internalID: 2936895819771867995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c8c2152db5cf230800000000000000
+      internalID: 3673912354890615944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e225e21ce49ffb0800000000000000
+      internalID: -4613569751651570056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a469f08146c405e0800000000000000
+      internalID: -1944211154478209880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144dcb207c3e74510800000000000000
+      internalID: 1533444642026869825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017f1e183a71f4460800000000000000
+      internalID: 7228021917979113232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad5cf0bbd666c3f0800000000000000
+      internalID: -880903583351153241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 6}
+        - {x: -2, y: -6}
+        - {x: 2, y: -6}
+        - {x: 2, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eafc76009f7a1a60800000000000000
+      internalID: 7645563573975710433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b85503098568560800000000000000
+      internalID: 7315632021019396869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1249a7a98d4d7b0800000000000000
+      internalID: -5200293511712988686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402b6c3435af5d870800000000000000
+      internalID: 8707140690117046788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_thorns_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8092824aa5b558f30800000000000000
+      internalID: 4577165041151256840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

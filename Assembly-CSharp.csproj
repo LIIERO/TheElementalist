@@ -47,20 +47,32 @@
   <PropertyGroup>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <UnityProjectGenerator>Package</UnityProjectGenerator>
-    <UnityProjectGeneratorVersion>2.0.14</UnityProjectGeneratorVersion>
+    <UnityProjectGeneratorVersion>2.0.18</UnityProjectGeneratorVersion>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2020.3.30f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="E:\Pliki programow\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ZoeShaderAndTriggerInteract.cs" />
+    <Compile Include="Assets\Scripts\Zoe\ZoeShader.cs" />
+    <Compile Include="Assets\Scripts\Objects\ElSymbol.cs" />
     <Compile Include="Assets\Scripts\Global\Global.cs" />
-    <Compile Include="Assets\Scripts\ZoeMovement.cs" />
+    <Compile Include="Assets\Scripts\Control\ElOverlay.cs" />
+    <Compile Include="Assets\Scripts\Objects\Checkpoint.cs" />
+    <Compile Include="Assets\Scripts\Zoe\ZoeMovementAnimationsOverlay.cs" />
+    <Compile Include="Assets\Scripts\Objects\ForegroundTiles.cs" />
+    <Compile Include="Assets\Scripts\Objects\Teleport.cs" />
+    <Compile Include="Assets\Scripts\Control\UpdatePhysics.cs" />
+    <Compile Include="Assets\Scripts\Control\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Objects\Interactable.cs" />
     <Compile Include="Assets\Scripts\Global\GameManager.cs" />
-    <Compile Include="Assets\Scripts\Refill.cs" />
+    <Compile Include="Assets\Scripts\Global\GlobalTypes.cs" />
+    <Compile Include="Assets\Scripts\Zoe\ZoeInteract.cs" />
+    <Compile Include="Assets\Scripts\Zoe\ZoeDeathRespawn.cs" />
+    <Compile Include="Assets\Scripts\Objects\Refill.cs" />
+    <Compile Include="Assets\Scripts\Objects\Fireball.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

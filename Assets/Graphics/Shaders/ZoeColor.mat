@@ -39,4 +39,6 @@ Material:
     m_Colors:
     - Color_260dd786cd524786a1cbddaf5fdfb0d6: {r: 0.5283019, g: 0.03189744, b: 0.5007936, a: 0}
     - Color_d2c848cdd5d94108a38e2727f7b06ffd: {r: 1, g: 0, b: 0.9935699, a: 0}
+    - _ColorShirt: {r: 1, g: 0, b: 0.9935699, a: 0}
+    - _ColorSleeves: {r: 0.5283019, g: 0.03189744, b: 0.5007936, a: 0}
   m_BuildTextureStacks: []

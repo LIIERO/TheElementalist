@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Collectible
+  - Refill
+  - ForegroundTile
+  - DestroyedOnForeground
+  - Death
+  - Interactable
   layers:
   - Default
   - TransparentFX
@@ -39,6 +44,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3135626279
+    locked: 0
   - name: BackgroundTile
     uniqueID: 724171871
     locked: 0
@@ -48,12 +56,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: SpawnsAndStuff
+    uniqueID: 681506499
+    locked: 0
   - name: Character
     uniqueID: 3153721779
+    locked: 0
+  - name: Danger
+    uniqueID: 1540922747
     locked: 0
   - name: ForegroundTile
     uniqueID: 1972128387
     locked: 0
   - name: ForegroundEffect
     uniqueID: 2401070111
+    locked: 0
+  - name: Overlay
+    uniqueID: 1662309505
     locked: 0
